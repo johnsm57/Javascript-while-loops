@@ -1,0 +1,23 @@
+for (var i = 1; i <= 5; i++) {
+    console.log(i);
+}
+console.log('Counting completed!');
+
+// task 2
+for (var i = 5, i <= 1; i--) {
+    console.log('Counting completed!');
+}
+console.log('Countdown finished!')
+
+for (var i = 1; i <= 5; i++) {
+    console.log(i);
+}
+console.log('Counting completed!');
+
+// while loop
+var year = 2018;
+
+while (year <= 2022) {
+    console.log(year);
+    year++;
+}
